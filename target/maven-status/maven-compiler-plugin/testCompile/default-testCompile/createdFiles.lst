@@ -1,0 +1,4 @@
+com/jonathan/github/addressapi/service/MapsServiceTest.class
+com/jonathan/github/addressapi/AddressApiApplicationTests.class
+com/jonathan/github/addressapi/utils/StringMapsAddressBuilderTest.class
+com/jonathan/github/addressapi/rest/resources/AddressResourcesTest.class
